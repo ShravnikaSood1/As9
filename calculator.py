@@ -1,7 +1,7 @@
 # A simple Python calculator
 
 while True:
-    print("\n1. Addition")
+    print("1. Addition")
     print("2. Subtraction")
     print("3. Multiplication")
     print("4. Division")
